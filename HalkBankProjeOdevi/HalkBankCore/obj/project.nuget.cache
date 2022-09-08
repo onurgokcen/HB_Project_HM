@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "inVr/Nln6hAAkr6ZLn6PRfIyl6xt/CKvccYsSfdnN1d24mmttfL/PyGxKLIXBxvP5RmzyNTX8g+nvK2M7OflBg==",
+  "success": true,
+  "projectFilePath": "Z:\\egitimcsharp\\hb_calismalar-main\\hb_calismalar-main\\HalkBankProjeOdevi\\HalkBankCore\\HalkBankCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.deps.json
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.dll
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\bin\Debug\netstandard2.0\HalkBankCore.pdb
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.csproj.AssemblyReference.cache
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.GeneratedMSBuildEditorConfig.editorconfig
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.AssemblyInfoInputs.cache
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.AssemblyInfo.cs
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.csproj.CoreCompileInputs.cache
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.dll
+Z:\egitimcsharp\hb_calismalar-main\hb_calismalar-main\HalkBankProjeOdevi\HalkBankCore\obj\Debug\netstandard2.0\HalkBankCore.pdb
